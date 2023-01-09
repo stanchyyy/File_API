@@ -1,0 +1,26 @@
+{
+  "name": "uploadfile",
+  "version": "1.0.0",
+  "description": "upload file api",
+  "main": "Index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanchyyy/File_API.git"
+  },
+  "author": "s.Atanasov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanchyyy/File_API/issues"
+  },
+  "homepage": "https://github.com/stanchyyy/File_API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13"
+  }
+}
